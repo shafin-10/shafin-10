@@ -13,10 +13,7 @@
 <div align="center">
 
 <p align="center">
-  💻 <b>Full Stack Development</b> &nbsp;&bull;&nbsp;
-  ⚙️ <b>Backend Engineering</b> &nbsp;&bull;&nbsp;
-  🤖 <b>AI / ML Research</b> &nbsp;&bull;&nbsp;
-  🔍 <b>Problem Solving</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Backend+Engineer;AI+%2F+ML+Researcher;Problem+Solver" alt="What I Do" />
 </p>
 
 </div>
