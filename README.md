@@ -12,40 +12,12 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 💻 Full Stack Development
-
-Building modern, scalable and user-friendly web applications.
-
-</td>
-<td align="center" width="50%">
-
-### ⚙️ Backend Engineering
-
-Designing REST APIs, microservices and robust backend systems.
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### 🤖 AI & ML Research
-
-Exploring AI-powered applications, machine learning and research.
-
-</td>
-<td align="center" width="50%">
-
-### 🔍 Problem Solving
-
-Applying analytical thinking and programming to solve problems.
-
-</td>
-</tr>
-</table>
+<p align="center">
+  💻 <b>Full Stack Development</b> &nbsp;&bull;&nbsp;
+  ⚙️ <b>Backend Engineering</b> &nbsp;&bull;&nbsp;
+  🤖 <b>AI / ML Research</b> &nbsp;&bull;&nbsp;
+  🔍 <b>Problem Solving</b>
+</p>
 
 </div>
 
