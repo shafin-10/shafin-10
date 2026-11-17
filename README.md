@@ -97,7 +97,7 @@ I'm **Shafin Shahriar**, a Computer Science graduate and Software Developer pass
 
 <br/>
 
-<img width="60%" src="https://YOUR-VERCEL-DOMAIN/api/top-langs/?username=shafin-10&layout=compact&theme=tokyonight&hide_border=true" />
+<!-- <img width="60%" src="https://YOUR-VERCEL-DOMAIN/api/top-langs/?username=shafin-10&layout=compact&theme=tokyonight&hide_border=true" /> -->
 
 <br/>
 
