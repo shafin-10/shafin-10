@@ -8,7 +8,6 @@
 
 <!-- ==================== WHAT I DO ==================== -->
 
-<h2 align="center">What I Do</h2>
 
 <div align="center">
 
