@@ -91,9 +91,9 @@ I'm **Shafin Shahriar**, a Computer Science graduate and Software Developer pass
 
 <div align="center">
 
-<img width="49%" src="https://YOUR-VERCEL-DOMAIN/api?username=shafin-10&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<!-- <img width="49%" src="https://YOUR-VERCEL-DOMAIN/api?username=shafin-10&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" /> -->
 
-<!-- <img width="49%" src="https://streak-stats.demolab.com?user=shafin-10&theme=tokyonight&hide_border=true" /> -->
+ <img width="49%" src="https://streak-stats.demolab.com?user=shafin-10&theme=tokyonight&hide_border=true" /> 
 
 <br/>
 
