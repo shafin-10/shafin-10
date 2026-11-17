@@ -88,7 +88,33 @@ I'm **Shafin Shahriar**, a Computer Science graduate and Software Developer pass
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,c,cpp,react,nodejs,express,spring,html,css,tailwind,bootstrap,vite,postgres,mysql,mongodb,redis,rabbitmq,docker,git,github,postman&perline=8" />
+**🎨 Frontend Development**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,vite&perline=8" />
+
+<br/><br/>
+
+**⚙️ Backend Development**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring&perline=8" />
+
+<br/><br/>
+
+**🗄️ Databases & Messaging**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,rabbitmq&perline=8" />
+
+<br/><br/>
+
+**🛠️ DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea&perline=8" />
+
+<br/><br/>
+
+**🤖 AI / ML & Research**
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&perline=8" />
 
 </div>
 
