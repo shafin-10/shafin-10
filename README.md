@@ -91,20 +91,19 @@ I'm **Shafin Shahriar**, a Computer Science graduate and Software Developer pass
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shafin-10&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img width="49%" src="https://YOUR-VERCEL-DOMAIN/api?username=shafin-10&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
 <img width="49%" src="https://streak-stats.demolab.com?user=shafin-10&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafin-10&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="60%" src="https://YOUR-VERCEL-DOMAIN/api/top-langs/?username=shafin-10&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shafin-10&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
-
 <!-- ==================== FOOTER ==================== -->
 
 <div align="center">
